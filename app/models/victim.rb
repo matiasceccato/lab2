@@ -1,0 +1,3 @@
+class Victim < ApplicationRecord
+
+end
